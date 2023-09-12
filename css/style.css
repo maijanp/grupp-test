@@ -3,11 +3,12 @@ body {
 }
 
 footer {
-  background-color: peachpuff;
+    background-color: peachpuff;
 }
 
 main {
-  display: flex;
+    display: flex;
+  background-color: peachpuff;
 }
 
 header {
