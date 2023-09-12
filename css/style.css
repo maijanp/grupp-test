@@ -2,6 +2,10 @@ body{
     background-color: lightgreen;
 }
 
+footer {
+    background-color: peachpuff;
+
+
 main {
     display: flex;
 
@@ -18,4 +22,5 @@ article {
     background-color: lightpink;
     border: 1px solid #333;
     padding: 1em;
+
 }
