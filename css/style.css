@@ -2,7 +2,16 @@ body{
     background-color: lightgreen;
 }
 
-article{
+header {
+    width: 100vw;
+    background-color: azure;
+}
+
+h1 {
+    color: darkcyan;
+}
+
+article {
     background-color: lightpink;
     border: 1px solid #333;
     padding: 1em;
