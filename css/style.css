@@ -1,26 +1,26 @@
-body{
-    background-color: lightgreen;
+body {
+  background-color: lightgreen;
 }
 
 footer {
-    background-color: peachpuff;
-
+  background-color: peachpuff;
+}
 
 main {
-    display: flex;
+  display: flex;
+}
 
 header {
-    width: 100vw;
-    background-color: azure;
+  width: 100vw;
+  background-color: azure;
 }
 
 h1 {
-    color: darkcyan;
+  color: darkcyan;
 }
 
 article {
-    background-color: lightpink;
-    border: 1px solid #333;
-    padding: 1em;
-
+  background-color: lightpink;
+  border: 1px solid #333;
+  padding: 1em;
 }
