@@ -4,11 +4,11 @@ body{
 
 footer {
     background-color: peachpuff;
-
+}
 
 main {
     display: flex;
-
+}
 header {
     width: 100vw;
     background-color: azure;
